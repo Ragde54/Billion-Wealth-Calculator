@@ -6,7 +6,7 @@
  - Ordinal Encoding
  - Hot-One Encoding
  
- You will find that any of the three approaches yield the same results, the main reason to this is because of the size and heterogeneity of the dataset. As I said this is intended to be a display of how to deal with categorical data and build a reusable template to test these approaches. In this case the dataset wasn poorly chosen but might work well with other datasets.
+ You will find that any of the three approaches yield similar results, the main reason to this is because of the size and heterogeneity of the dataset. As I said this is intended to be a display of how to deal with categorical data and build a reusable template to test these approaches. In this case the dataset is pretty limited but it might work well with other datasets.
 
 Links:
 - Dataset: https://www.kaggle.com/roysouravcu/forbes-billionaires-of-2021?select=Billionaire.csv
